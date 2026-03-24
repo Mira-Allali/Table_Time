@@ -113,13 +113,12 @@ python launcher.py
 ## Author
 
 ```text
-Mira Allali | PhD Researcher – Networks and Security
-Berrached  Assia | PhD Researcher – architecture
+Mira Allali|PhD Researcher – Networks and Security
+Berrached Assia | PhD Researcher – architecture
 Cherki Asma Nada | PhD Researcher - english literature and civilisation
 Mechache Hadil Hadjer| PhD Researcher - english language and culture
 Mouharar Ahlam| PhD Researcher - english language and culture
 ```
-
 ---
 
 ## License
