@@ -173,15 +173,13 @@ python launcher.py
 ---
 
 ## Authors
-
+```text
 Mira Allali | PhD Researcher – Networks and Security  
 Berrached Assia | PhD Researcher – Architecture  
 Cherki Asma Nada | PhD Researcher – English Literature and Civilisation  
 Mechache Hadil Hadjer | PhD Researcher – English Language and Culture  
 Mouharar Ahlam | PhD Researcher – English Language and Culture  
-
 ```
-
 ---
 
 ## License
